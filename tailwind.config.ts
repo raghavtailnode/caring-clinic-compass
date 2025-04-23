@@ -61,6 +61,21 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				clinic: {
+					50: '#e6f3fe',
+					100: '#cce7fd',
+					200: '#99cffb',
+					300: '#66b7f9',
+					400: '#339ff7',
+					500: '#0088f5',
+					600: '#006dc4',
+					700: '#005293',
+					800: '#003662',
+					900: '#001b31',
+					foreground: '#ffffff',
+					accent: '#e6fffa',
+					'accent-foreground': '#0088f5'
 				}
 			},
 			borderRadius: {
